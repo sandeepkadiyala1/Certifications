@@ -4,4 +4,4 @@
 - [CCNAv7: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/2ba3f910-e148-4814-8bc3-73d3ba6954dd/public_url)
 - [Devnet Associate](https://www.credly.com/badges/e069e851-9d0f-4c74-aac4-762b0d72882f/public_url)
 - [Partner: PCAP - Programming Essentials in Python](https://shorturl.at/AKHMp)
-  
+- [Cisco Certified Network Professional Security (CCNP Security)](https://github.com/sandeepkadiyala1/Certifications/blob/main/Cisco%20Certified%20Network%20Professional%20Security%20certificate.pdf)
